@@ -30,4 +30,4 @@ elif action == "d" or action == "desifrovat":
             text += char
     print("text: '{}".format(text))
 else:
-    print("Nieco neprebehlo v poriadku")
+    print("Niecoas neprebehlo v poriadku")
